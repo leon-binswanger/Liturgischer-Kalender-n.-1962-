@@ -2184,7 +2184,7 @@ DESCRIPTION: S. Raymundi Nonnati Conf. \n 3. Klasse, Farbe: weiß
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Ägidius/ 12 Brüder)
+SUMMARY:vom Tag (Hl. Ägidius und 12 Brüder)
 UID:Liturgiekalender_20260901@introibo.net
 STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260901
